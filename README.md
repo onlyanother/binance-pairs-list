@@ -40,22 +40,22 @@ All Binance cryptocurrency symbol pairs with EUR
 
 All Binance cryptocurrency symbol pairs with BTC
 <br><br>
-
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/all-btc-plain.txt">all-btc-plain.txt</a>
+    
+&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#btcplain">all-btc-plain.txt</a>
 <br>
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/all-btc-semicolon.txt">all-btc-semicolon.txt</a>
+&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#btcsemicolon">all-btc-semicolon.txt</a>
 <br>
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/all-btc-quoted-semicolon.txt">all-btc-quoted-semicolon.txt</a>
+&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#btcqsemicolon">all-btc-quoted-semicolon.txt</a>
 <br>
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/all-btc-trade.txt">all-btc-trade.txt</a>
+&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#btctrade">all-btc-trade.txt</a>
 <br>
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/all-btc-ticker.txt">all-btc-ticker.txt</a>
+&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#btcticker">all-btc-ticker.txt</a>
 <br>
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/all-btc-miniticker.txt">all-btc-miniticker.txt</a>
+&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#btcminiticker">all-btc-miniticker.txt</a>
 <br>
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/all-btc-depth.txt">all-btc-depth.txt</a>
+&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#btcdepth">all-btc-depth.txt</a>
 <br>
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/all-btc-depth-100ms.txt">all-btc-depth-100ms.txt</a>
+&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#btcdepth100ms">all-btc-depth-100ms.txt</a>
 <br><br>
 
 All Binance cryptocurrency symbol pairs with ETH
