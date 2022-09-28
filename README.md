@@ -1,7 +1,7 @@
 All Binance cryptocurrency symbol pairs with USDT
 <br><br>
 
-&#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#usdtplain">all-usdt-plain.txt</a>
+&#8618; <a href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#usdtplain" target="_blank">all-usdt-plain.txt</a>
 <br>
 &#8618; <a target="_blank" href="https://kurzovnilistek.eu/binance-usdt-eur-btc-eth-pairs-list/#usdtsemicolon">all-usdt-semicolon.txt</a>
 <br>
